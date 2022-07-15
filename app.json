@@ -6,7 +6,7 @@
         "Renamer Bot",
         "Mongo DB"
     ],
-    "repository": "https://github.com/Joy-nath/RENAMER_BOT",
+    "repository": "https://github.com/PROFESSOR-77/PYRO-RENAME-LOADER",
     "success_url": "https://telegram.dog/lntechnical",
     "env": {
         "API_ID": {
